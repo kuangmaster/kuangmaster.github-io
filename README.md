@@ -1,6 +1,6 @@
 ### I'm KuangMaster.
 
-[![My Skills](https://skillicons.dev/icons?i=java,go,html,vue,docker,git,vscode,github,idea,linux,md,mysql,nginx,py,redis,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,c,py,html,vue,git,github,vscode,idea,docker,linux,nginx,md,mysql,redis)](https://skillicons.dev)
 
 ### :turtle: My Github
 
